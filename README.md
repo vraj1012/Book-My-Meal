@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/401a4f4b-651f-4861-8874-869b23a47ce9)# Book My Meal
+# Book My Meal
 
 ### About the Project
 **Book My Meal** is an employee meal booking portal that allows employees to book their meals in advance. It provides two types of meal booking options:
@@ -22,9 +22,9 @@ Additionally, the system features a **coupon redemption mechanism** where employ
 1. **Login Page**
    - Initially when the user visits the website they need to enter their login credentials and this will be verified.
    -  If the entered credentials are valid the user will be redirected to the home page.
-   ```markdown
+
    ![Project Banner](https://github.com/vraj1012/Book-My-Meal/blob/main/BookMyMealAppImages/1login.jpg)
-   ```
+ 
 2. **System Workflow (Under "How It Works")** – If your PPT has a system flow diagram, include it.
    ```markdown
    ![System Flow](path/to/system-flow-image.png)
