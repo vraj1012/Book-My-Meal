@@ -140,3 +140,14 @@ The Use Case diagram illustrates different user interactions with the system.
 5. Cancellation of booking is also available.
 
 ---
+
+## How to Run This Project
+1.	Clone this repository: 
+    git clone https://github.com/vraj1012/Book-My-Meal.git
+2. Ensure that you have Microsoft Visual Studio (with .NET 6), Microsoft SQL server and Angular installed.
+3.	Firstly, use the BookMyMeal.bak file to restore the backup of database in MSSQL server.
+4.	In the BookMyMealAPI change the connection string of database in appsettings.json.
+5.	Launch the BookMyMealAPI.
+6.	Launch the BookMyMeal app. (Using ng serve)
+
+---
