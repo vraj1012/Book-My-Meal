@@ -1,4 +1,4 @@
-# Book My Meal
+![image](https://github.com/user-attachments/assets/c2ddcd51-5079-489c-97c7-599b2b8f95cd)# Book My Meal
 
 ### About the Project
 **Book My Meal** is an employee meal booking portal that allows employees to book their meals in advance. It provides two types of meal booking options:
@@ -23,16 +23,49 @@ Additionally, the system features a **coupon redemption mechanism** where employ
    - Initially when the user visits the website they need to enter their login credentials and this will be verified.
    -  If the entered credentials are valid the user will be redirected to the home page.
 
-   ![Project Banner](https://github.com/vraj1012/Book-My-Meal/blob/main/BookMyMealAppImages/1login.jpg)
+   ![Login Page](https://github.com/vraj1012/Book-My-Meal/blob/main/BookMyMealAppImages/1login.jpg)
  
-2. **System Workflow (Under "How It Works")** – If your PPT has a system flow diagram, include it.
-   ```markdown
-   ![System Flow](path/to/system-flow-image.png)
-   ```
-4. **UI Screenshots (Under "Features")** – If you have UI designs, showcase meal booking interfaces.
-   ```markdown
-   ![UI Screenshot](path/to/ui-image.png)
-   ```
+2. **Sign Up Page**
+   - The user registers themselves on this page to access ‘Book My Meal’ functionalities. Consequently, the entered email and password will be used as login credentials.
+
+   ![Sign Up Page](https://github.com/vraj1012/Book-My-Meal/blob/main/BookMyMealAppImages/2Signup.jpg)
+
+3. **Change Password**
+   - Here the registered employee can change their current password if they want to.
+   - They need to enter their username,
+current password, new password and confirm the new password to update the existing password.
+
+   ![Change Password](https://github.com/vraj1012/Book-My-Meal/blob/main/BookMyMealAppImages/3ChangePassword.jpg)
+
+4. **Home Page**
+   - As soon as the employee logs in they are redirected to home page where a calendar is displayed  with two buttons beneath it one to place bulk meal order and other one to place quick meal order.
+
+   ![Home Page](https://github.com/vraj1012/Book-My-Meal/blob/main/BookMyMealAppImages/4HomePage.jpg)
+
+5. **Quick Meal Booking**
+   - Using the quick meal booking option the employee can place an order in advance for tomorrow and choose the type of meal that is either lunch, dinner or both.
+        
+   ![Quick Meal Booking](https://github.com/vraj1012/Book-My-Meal/blob/main/BookMyMealAppImages/5QuickMealBooking.jpg)
+
+6. **Bulk Meal Booking**
+   - While using the bulk meal booking option the employee can place an order for a range of date (3 months from current date) and choose the type of meal that is either lunch, dinner or both.
+
+   ![Bulk Meal Booking](https://github.com/vraj1012/Book-My-Meal/blob/main/BookMyMealAppImages/6BulkMealBooking.jpg)
+     
+   
+
+7. sdf
+8. sdf
+9. sdf
+10. sdf
+11. sdf
+12. sdf
+13. sdf
+14. sdf
+15. sdf
+16. sdf
+17. sdf
+
 
 ---
 
