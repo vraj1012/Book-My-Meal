@@ -1,0 +1,590 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "V:\\VRAJ RESUME PROJECTS\\BookMyMeal\\BookMyMealAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8488D89C-5CAE-426D-BAF7-C321997895A9}|BookMyMeal\\BookMyMeal.csproj|v:\\vraj resume projects\\bookmymeal\\bookmymealapi\\bookmymeal\\repository\\implementation\\coupondetailsbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8488D89C-5CAE-426D-BAF7-C321997895A9}|BookMyMeal\\BookMyMeal.csproj|solutionrelative:bookmymeal\\repository\\implementation\\coupondetailsbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8488D89C-5CAE-426D-BAF7-C321997895A9}|BookMyMeal\\BookMyMeal.csproj|v:\\vraj resume projects\\bookmymeal\\bookmymealapi\\bookmymeal\\repository\\interface\\ibookingcalendar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8488D89C-5CAE-426D-BAF7-C321997895A9}|BookMyMeal\\BookMyMeal.csproj|solutionrelative:bookmymeal\\repository\\interface\\ibookingcalendar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8488D89C-5CAE-426D-BAF7-C321997895A9}|BookMyMeal\\BookMyMeal.csproj|v:\\vraj resume projects\\bookmymeal\\bookmymealapi\\bookmymeal\\repository\\implementation\\bookingcalendarbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8488D89C-5CAE-426D-BAF7-C321997895A9}|BookMyMeal\\BookMyMeal.csproj|solutionrelative:bookmymeal\\repository\\implementation\\bookingcalendarbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8488D89C-5CAE-426D-BAF7-C321997895A9}|BookMyMeal\\BookMyMeal.csproj|v:\\vraj resume projects\\bookmymeal\\bookmymealapi\\bookmymeal\\repository\\implementation\\orderlogsbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8488D89C-5CAE-426D-BAF7-C321997895A9}|BookMyMeal\\BookMyMeal.csproj|solutionrelative:bookmymeal\\repository\\implementation\\orderlogsbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8488D89C-5CAE-426D-BAF7-C321997895A9}|BookMyMeal\\BookMyMeal.csproj|v:\\vraj resume projects\\bookmymeal\\bookmymealapi\\bookmymeal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8488D89C-5CAE-426D-BAF7-C321997895A9}|BookMyMeal\\BookMyMeal.csproj|solutionrelative:bookmymeal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8488D89C-5CAE-426D-BAF7-C321997895A9}|BookMyMeal\\BookMyMeal.csproj|v:\\vraj resume projects\\bookmymeal\\bookmymealapi\\bookmymeal\\controllers\\logincredentialscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8488D89C-5CAE-426D-BAF7-C321997895A9}|BookMyMeal\\BookMyMeal.csproj|solutionrelative:bookmymeal\\controllers\\logincredentialscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8488D89C-5CAE-426D-BAF7-C321997895A9}|BookMyMeal\\BookMyMeal.csproj|v:\\vraj resume projects\\bookmymeal\\bookmymealapi\\bookmymeal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8488D89C-5CAE-426D-BAF7-C321997895A9}|BookMyMeal\\BookMyMeal.csproj|solutionrelative:bookmymeal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8488D89C-5CAE-426D-BAF7-C321997895A9}|BookMyMeal\\BookMyMeal.csproj|v:\\vraj resume projects\\bookmymeal\\bookmymealapi\\bookmymeal\\repository\\implementation\\logincredentialsbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8488D89C-5CAE-426D-BAF7-C321997895A9}|BookMyMeal\\BookMyMeal.csproj|solutionrelative:bookmymeal\\repository\\implementation\\logincredentialsbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8488D89C-5CAE-426D-BAF7-C321997895A9}|BookMyMeal\\BookMyMeal.csproj|v:\\vraj resume projects\\bookmymeal\\bookmymealapi\\bookmymeal\\dbcontext\\dbcontexts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8488D89C-5CAE-426D-BAF7-C321997895A9}|BookMyMeal\\BookMyMeal.csproj|solutionrelative:bookmymeal\\dbcontext\\dbcontexts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8488D89C-5CAE-426D-BAF7-C321997895A9}|BookMyMeal\\BookMyMeal.csproj|v:\\vraj resume projects\\bookmymeal\\bookmymealapi\\bookmymeal\\repository\\implementation\\employeebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8488D89C-5CAE-426D-BAF7-C321997895A9}|BookMyMeal\\BookMyMeal.csproj|solutionrelative:bookmymeal\\repository\\implementation\\employeebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8488D89C-5CAE-426D-BAF7-C321997895A9}|BookMyMeal\\BookMyMeal.csproj|v:\\vraj resume projects\\bookmymeal\\bookmymealapi\\bookmymeal\\controllers\\bookingcalendarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8488D89C-5CAE-426D-BAF7-C321997895A9}|BookMyMeal\\BookMyMeal.csproj|solutionrelative:bookmymeal\\controllers\\bookingcalendarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8488D89C-5CAE-426D-BAF7-C321997895A9}|BookMyMeal\\BookMyMeal.csproj|v:\\vraj resume projects\\bookmymeal\\bookmymealapi\\bookmymeal\\controllers\\coupondetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8488D89C-5CAE-426D-BAF7-C321997895A9}|BookMyMeal\\BookMyMeal.csproj|solutionrelative:bookmymeal\\controllers\\coupondetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8488D89C-5CAE-426D-BAF7-C321997895A9}|BookMyMeal\\BookMyMeal.csproj|v:\\vraj resume projects\\bookmymeal\\bookmymealapi\\bookmymeal\\controllers\\orderlogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8488D89C-5CAE-426D-BAF7-C321997895A9}|BookMyMeal\\BookMyMeal.csproj|solutionrelative:bookmymeal\\controllers\\orderlogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8488D89C-5CAE-426D-BAF7-C321997895A9}|BookMyMeal\\BookMyMeal.csproj|v:\\vraj resume projects\\bookmymeal\\bookmymealapi\\bookmymeal\\repository\\interface\\iorderlogs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8488D89C-5CAE-426D-BAF7-C321997895A9}|BookMyMeal\\BookMyMeal.csproj|solutionrelative:bookmymeal\\repository\\interface\\iorderlogs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8488D89C-5CAE-426D-BAF7-C321997895A9}|BookMyMeal\\BookMyMeal.csproj|v:\\vraj resume projects\\bookmymeal\\bookmymealapi\\bookmymeal\\models\\orderlogs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8488D89C-5CAE-426D-BAF7-C321997895A9}|BookMyMeal\\BookMyMeal.csproj|solutionrelative:bookmymeal\\models\\orderlogs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8488D89C-5CAE-426D-BAF7-C321997895A9}|BookMyMeal\\BookMyMeal.csproj|v:\\vraj resume projects\\bookmymeal\\bookmymealapi\\bookmymeal\\repository\\implementation\\couponredemptionlogsbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8488D89C-5CAE-426D-BAF7-C321997895A9}|BookMyMeal\\BookMyMeal.csproj|solutionrelative:bookmymeal\\repository\\implementation\\couponredemptionlogsbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8488D89C-5CAE-426D-BAF7-C321997895A9}|BookMyMeal\\BookMyMeal.csproj|v:\\vraj resume projects\\bookmymeal\\bookmymealapi\\bookmymeal\\repository\\interface\\icoupondetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8488D89C-5CAE-426D-BAF7-C321997895A9}|BookMyMeal\\BookMyMeal.csproj|solutionrelative:bookmymeal\\repository\\interface\\icoupondetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8488D89C-5CAE-426D-BAF7-C321997895A9}|BookMyMeal\\BookMyMeal.csproj|v:\\vraj resume projects\\bookmymeal\\bookmymealapi\\bookmymeal\\models\\coupondetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8488D89C-5CAE-426D-BAF7-C321997895A9}|BookMyMeal\\BookMyMeal.csproj|solutionrelative:bookmymeal\\models\\coupondetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8488D89C-5CAE-426D-BAF7-C321997895A9}|BookMyMeal\\BookMyMeal.csproj|v:\\vraj resume projects\\bookmymeal\\bookmymealapi\\bookmymeal\\controllers\\emailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8488D89C-5CAE-426D-BAF7-C321997895A9}|BookMyMeal\\BookMyMeal.csproj|solutionrelative:bookmymeal\\controllers\\emailcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8488D89C-5CAE-426D-BAF7-C321997895A9}|BookMyMeal\\BookMyMeal.csproj|v:\\vraj resume projects\\bookmymeal\\bookmymealapi\\bookmymeal\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8488D89C-5CAE-426D-BAF7-C321997895A9}|BookMyMeal\\BookMyMeal.csproj|solutionrelative:bookmymeal\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8488D89C-5CAE-426D-BAF7-C321997895A9}|BookMyMeal\\BookMyMeal.csproj|v:\\vraj resume projects\\bookmymeal\\bookmymealapi\\bookmymeal\\controllers\\couponredemptionlogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8488D89C-5CAE-426D-BAF7-C321997895A9}|BookMyMeal\\BookMyMeal.csproj|solutionrelative:bookmymeal\\controllers\\couponredemptionlogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8488D89C-5CAE-426D-BAF7-C321997895A9}|BookMyMeal\\BookMyMeal.csproj|v:\\vraj resume projects\\bookmymeal\\bookmymealapi\\bookmymeal\\repository\\implementation\\emailbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8488D89C-5CAE-426D-BAF7-C321997895A9}|BookMyMeal\\BookMyMeal.csproj|solutionrelative:bookmymeal\\repository\\implementation\\emailbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8488D89C-5CAE-426D-BAF7-C321997895A9}|BookMyMeal\\BookMyMeal.csproj|v:\\vraj resume projects\\bookmymeal\\bookmymealapi\\bookmymeal\\repository\\interface\\iemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8488D89C-5CAE-426D-BAF7-C321997895A9}|BookMyMeal\\BookMyMeal.csproj|solutionrelative:bookmymeal\\repository\\interface\\iemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8488D89C-5CAE-426D-BAF7-C321997895A9}|BookMyMeal\\BookMyMeal.csproj|v:\\vraj resume projects\\bookmymeal\\bookmymealapi\\bookmymeal\\models\\bookingcalendar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8488D89C-5CAE-426D-BAF7-C321997895A9}|BookMyMeal\\BookMyMeal.csproj|solutionrelative:bookmymeal\\models\\bookingcalendar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8488D89C-5CAE-426D-BAF7-C321997895A9}|BookMyMeal\\BookMyMeal.csproj|v:\\vraj resume projects\\bookmymeal\\bookmymealapi\\bookmymeal\\models\\emailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8488D89C-5CAE-426D-BAF7-C321997895A9}|BookMyMeal\\BookMyMeal.csproj|solutionrelative:bookmymeal\\models\\emailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8488D89C-5CAE-426D-BAF7-C321997895A9}|BookMyMeal\\BookMyMeal.csproj|v:\\vraj resume projects\\bookmymeal\\bookmymealapi\\bookmymeal\\models\\sendemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8488D89C-5CAE-426D-BAF7-C321997895A9}|BookMyMeal\\BookMyMeal.csproj|solutionrelative:bookmymeal\\models\\sendemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8488D89C-5CAE-426D-BAF7-C321997895A9}|BookMyMeal\\BookMyMeal.csproj|v:\\vraj resume projects\\bookmymeal\\bookmymealapi\\bookmymeal\\models\\couponredemptionlogs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8488D89C-5CAE-426D-BAF7-C321997895A9}|BookMyMeal\\BookMyMeal.csproj|solutionrelative:bookmymeal\\models\\couponredemptionlogs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8488D89C-5CAE-426D-BAF7-C321997895A9}|BookMyMeal\\BookMyMeal.csproj|v:\\vraj resume projects\\bookmymeal\\bookmymealapi\\bookmymeal\\repository\\interface\\iemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8488D89C-5CAE-426D-BAF7-C321997895A9}|BookMyMeal\\BookMyMeal.csproj|solutionrelative:bookmymeal\\repository\\interface\\iemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8488D89C-5CAE-426D-BAF7-C321997895A9}|BookMyMeal\\BookMyMeal.csproj|v:\\vraj resume projects\\bookmymeal\\bookmymealapi\\bookmymeal\\repository\\interface\\icouponredemptionlogs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8488D89C-5CAE-426D-BAF7-C321997895A9}|BookMyMeal\\BookMyMeal.csproj|solutionrelative:bookmymeal\\repository\\interface\\icouponredemptionlogs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8488D89C-5CAE-426D-BAF7-C321997895A9}|BookMyMeal\\BookMyMeal.csproj|v:\\vraj resume projects\\bookmymeal\\bookmymealapi\\bookmymeal\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8488D89C-5CAE-426D-BAF7-C321997895A9}|BookMyMeal\\BookMyMeal.csproj|solutionrelative:bookmymeal\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8488D89C-5CAE-426D-BAF7-C321997895A9}|BookMyMeal\\BookMyMeal.csproj|v:\\vraj resume projects\\bookmymeal\\bookmymealapi\\bookmymeal\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8488D89C-5CAE-426D-BAF7-C321997895A9}|BookMyMeal\\BookMyMeal.csproj|solutionrelative:bookmymeal\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8488D89C-5CAE-426D-BAF7-C321997895A9}|BookMyMeal\\BookMyMeal.csproj|v:\\vraj resume projects\\bookmymeal\\bookmymealapi\\bookmymeal\\models\\loginlogs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8488D89C-5CAE-426D-BAF7-C321997895A9}|BookMyMeal\\BookMyMeal.csproj|solutionrelative:bookmymeal\\models\\loginlogs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8488D89C-5CAE-426D-BAF7-C321997895A9}|BookMyMeal\\BookMyMeal.csproj|v:\\vraj resume projects\\bookmymeal\\bookmymealapi\\bookmymeal\\models\\logincredentials.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8488D89C-5CAE-426D-BAF7-C321997895A9}|BookMyMeal\\BookMyMeal.csproj|solutionrelative:bookmymeal\\models\\logincredentials.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8488D89C-5CAE-426D-BAF7-C321997895A9}|BookMyMeal\\BookMyMeal.csproj|v:\\vraj resume projects\\bookmymeal\\bookmymealapi\\bookmymeal\\repository\\interface\\ilogincredentials.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8488D89C-5CAE-426D-BAF7-C321997895A9}|BookMyMeal\\BookMyMeal.csproj|solutionrelative:bookmymeal\\repository\\interface\\ilogincredentials.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8488D89C-5CAE-426D-BAF7-C321997895A9}|BookMyMeal\\BookMyMeal.csproj|v:\\vraj resume projects\\bookmymeal\\bookmymealapi\\bookmymeal\\bookmymeal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8488D89C-5CAE-426D-BAF7-C321997895A9}|BookMyMeal\\BookMyMeal.csproj|solutionrelative:bookmymeal\\bookmymeal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "V:\\VRAJ RESUME PROJECTS\\BookMyMeal\\BookMyMealAPI\\BookMyMeal\\appsettings.json",
+              "RelativeDocumentMoniker": "BookMyMeal\\appsettings.json",
+              "ToolTip": "V:\\VRAJ RESUME PROJECTS\\BookMyMeal\\BookMyMealAPI\\BookMyMeal\\appsettings.json",
+              "RelativeToolTip": "BookMyMeal\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-24T05:29:42.755Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginCredentialsBL.cs",
+              "DocumentMoniker": "V:\\VRAJ RESUME PROJECTS\\BookMyMeal\\BookMyMealAPI\\BookMyMeal\\Repository\\Implementation\\LoginCredentialsBL.cs",
+              "RelativeDocumentMoniker": "BookMyMeal\\Repository\\Implementation\\LoginCredentialsBL.cs",
+              "ToolTip": "V:\\VRAJ RESUME PROJECTS\\BookMyMeal\\BookMyMealAPI\\BookMyMeal\\Repository\\Implementation\\LoginCredentialsBL.cs",
+              "RelativeToolTip": "BookMyMeal\\Repository\\Implementation\\LoginCredentialsBL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T05:29:42.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IBookingCalendar.cs",
+              "DocumentMoniker": "V:\\VRAJ RESUME PROJECTS\\BookMyMeal\\BookMyMealAPI\\BookMyMeal\\Repository\\Interface\\IBookingCalendar.cs",
+              "RelativeDocumentMoniker": "BookMyMeal\\Repository\\Interface\\IBookingCalendar.cs",
+              "ToolTip": "V:\\VRAJ RESUME PROJECTS\\BookMyMeal\\BookMyMealAPI\\BookMyMeal\\Repository\\Interface\\IBookingCalendar.cs",
+              "RelativeToolTip": "BookMyMeal\\Repository\\Interface\\IBookingCalendar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T05:29:42.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookingCalendarBL.cs",
+              "DocumentMoniker": "V:\\VRAJ RESUME PROJECTS\\BookMyMeal\\BookMyMealAPI\\BookMyMeal\\Repository\\Implementation\\BookingCalendarBL.cs",
+              "RelativeDocumentMoniker": "BookMyMeal\\Repository\\Implementation\\BookingCalendarBL.cs",
+              "ToolTip": "V:\\VRAJ RESUME PROJECTS\\BookMyMeal\\BookMyMealAPI\\BookMyMeal\\Repository\\Implementation\\BookingCalendarBL.cs",
+              "RelativeToolTip": "BookMyMeal\\Repository\\Implementation\\BookingCalendarBL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T05:29:42.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CouponDetailsBL.cs",
+              "DocumentMoniker": "V:\\VRAJ RESUME PROJECTS\\BookMyMeal\\BookMyMealAPI\\BookMyMeal\\Repository\\Implementation\\CouponDetailsBL.cs",
+              "RelativeDocumentMoniker": "BookMyMeal\\Repository\\Implementation\\CouponDetailsBL.cs",
+              "ToolTip": "V:\\VRAJ RESUME PROJECTS\\BookMyMeal\\BookMyMealAPI\\BookMyMeal\\Repository\\Implementation\\CouponDetailsBL.cs",
+              "RelativeToolTip": "BookMyMeal\\Repository\\Implementation\\CouponDetailsBL.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAAAE8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T05:29:42.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "V:\\VRAJ RESUME PROJECTS\\BookMyMeal\\BookMyMealAPI\\BookMyMeal\\Program.cs",
+              "RelativeDocumentMoniker": "BookMyMeal\\Program.cs",
+              "ToolTip": "V:\\VRAJ RESUME PROJECTS\\BookMyMeal\\BookMyMealAPI\\BookMyMeal\\Program.cs",
+              "RelativeToolTip": "BookMyMeal\\Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwBEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T05:29:42.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderLogsBL.cs",
+              "DocumentMoniker": "V:\\VRAJ RESUME PROJECTS\\BookMyMeal\\BookMyMealAPI\\BookMyMeal\\Repository\\Implementation\\OrderLogsBL.cs",
+              "RelativeDocumentMoniker": "BookMyMeal\\Repository\\Implementation\\OrderLogsBL.cs",
+              "ToolTip": "V:\\VRAJ RESUME PROJECTS\\BookMyMeal\\BookMyMealAPI\\BookMyMeal\\Repository\\Implementation\\OrderLogsBL.cs",
+              "RelativeToolTip": "BookMyMeal\\Repository\\Implementation\\OrderLogsBL.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T05:29:42.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginCredentialsController.cs",
+              "DocumentMoniker": "V:\\VRAJ RESUME PROJECTS\\BookMyMeal\\BookMyMealAPI\\BookMyMeal\\Controllers\\LoginCredentialsController.cs",
+              "RelativeDocumentMoniker": "BookMyMeal\\Controllers\\LoginCredentialsController.cs",
+              "ToolTip": "V:\\VRAJ RESUME PROJECTS\\BookMyMeal\\BookMyMealAPI\\BookMyMeal\\Controllers\\LoginCredentialsController.cs",
+              "RelativeToolTip": "BookMyMeal\\Controllers\\LoginCredentialsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T05:29:42.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EmployeeBL.cs",
+              "DocumentMoniker": "V:\\VRAJ RESUME PROJECTS\\BookMyMeal\\BookMyMealAPI\\BookMyMeal\\Repository\\Implementation\\EmployeeBL.cs",
+              "RelativeDocumentMoniker": "BookMyMeal\\Repository\\Implementation\\EmployeeBL.cs",
+              "ToolTip": "V:\\VRAJ RESUME PROJECTS\\BookMyMeal\\BookMyMealAPI\\BookMyMeal\\Repository\\Implementation\\EmployeeBL.cs",
+              "RelativeToolTip": "BookMyMeal\\Repository\\Implementation\\EmployeeBL.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAwwBMAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T05:29:42.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BookingCalendarController.cs",
+              "DocumentMoniker": "V:\\VRAJ RESUME PROJECTS\\BookMyMeal\\BookMyMealAPI\\BookMyMeal\\Controllers\\BookingCalendarController.cs",
+              "RelativeDocumentMoniker": "BookMyMeal\\Controllers\\BookingCalendarController.cs",
+              "ToolTip": "V:\\VRAJ RESUME PROJECTS\\BookMyMeal\\BookMyMealAPI\\BookMyMeal\\Controllers\\BookingCalendarController.cs",
+              "RelativeToolTip": "BookMyMeal\\Controllers\\BookingCalendarController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T05:29:42.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DbContexts.cs",
+              "DocumentMoniker": "V:\\VRAJ RESUME PROJECTS\\BookMyMeal\\BookMyMealAPI\\BookMyMeal\\DbContext\\DbContexts.cs",
+              "RelativeDocumentMoniker": "BookMyMeal\\DbContext\\DbContexts.cs",
+              "ToolTip": "V:\\VRAJ RESUME PROJECTS\\BookMyMeal\\BookMyMealAPI\\BookMyMeal\\DbContext\\DbContexts.cs",
+              "RelativeToolTip": "BookMyMeal\\DbContext\\DbContexts.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T05:29:42.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CouponDetailsController.cs",
+              "DocumentMoniker": "V:\\VRAJ RESUME PROJECTS\\BookMyMeal\\BookMyMealAPI\\BookMyMeal\\Controllers\\CouponDetailsController.cs",
+              "RelativeDocumentMoniker": "BookMyMeal\\Controllers\\CouponDetailsController.cs",
+              "ToolTip": "V:\\VRAJ RESUME PROJECTS\\BookMyMeal\\BookMyMealAPI\\BookMyMeal\\Controllers\\CouponDetailsController.cs",
+              "RelativeToolTip": "BookMyMeal\\Controllers\\CouponDetailsController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAMwBkAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T05:29:42.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OrderLogsController.cs",
+              "DocumentMoniker": "V:\\VRAJ RESUME PROJECTS\\BookMyMeal\\BookMyMealAPI\\BookMyMeal\\Controllers\\OrderLogsController.cs",
+              "RelativeDocumentMoniker": "BookMyMeal\\Controllers\\OrderLogsController.cs",
+              "ToolTip": "V:\\VRAJ RESUME PROJECTS\\BookMyMeal\\BookMyMealAPI\\BookMyMeal\\Controllers\\OrderLogsController.cs",
+              "RelativeToolTip": "BookMyMeal\\Controllers\\OrderLogsController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAIA9wBoAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T05:29:42.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IOrderLogs.cs",
+              "DocumentMoniker": "V:\\VRAJ RESUME PROJECTS\\BookMyMeal\\BookMyMealAPI\\BookMyMeal\\Repository\\Interface\\IOrderLogs.cs",
+              "RelativeDocumentMoniker": "BookMyMeal\\Repository\\Interface\\IOrderLogs.cs",
+              "ToolTip": "V:\\VRAJ RESUME PROJECTS\\BookMyMeal\\BookMyMealAPI\\BookMyMeal\\Repository\\Interface\\IOrderLogs.cs",
+              "RelativeToolTip": "BookMyMeal\\Repository\\Interface\\IOrderLogs.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T05:29:42.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OrderLogs.cs",
+              "DocumentMoniker": "V:\\VRAJ RESUME PROJECTS\\BookMyMeal\\BookMyMealAPI\\BookMyMeal\\Models\\OrderLogs.cs",
+              "RelativeDocumentMoniker": "BookMyMeal\\Models\\OrderLogs.cs",
+              "ToolTip": "V:\\VRAJ RESUME PROJECTS\\BookMyMeal\\BookMyMealAPI\\BookMyMeal\\Models\\OrderLogs.cs",
+              "RelativeToolTip": "BookMyMeal\\Models\\OrderLogs.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAIwBIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T05:29:42.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ICouponDetails.cs",
+              "DocumentMoniker": "V:\\VRAJ RESUME PROJECTS\\BookMyMeal\\BookMyMealAPI\\BookMyMeal\\Repository\\Interface\\ICouponDetails.cs",
+              "RelativeDocumentMoniker": "BookMyMeal\\Repository\\Interface\\ICouponDetails.cs",
+              "ToolTip": "V:\\VRAJ RESUME PROJECTS\\BookMyMeal\\BookMyMealAPI\\BookMyMeal\\Repository\\Interface\\ICouponDetails.cs",
+              "RelativeToolTip": "BookMyMeal\\Repository\\Interface\\ICouponDetails.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T05:29:42.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CouponDetails.cs",
+              "DocumentMoniker": "V:\\VRAJ RESUME PROJECTS\\BookMyMeal\\BookMyMealAPI\\BookMyMeal\\Models\\CouponDetails.cs",
+              "RelativeDocumentMoniker": "BookMyMeal\\Models\\CouponDetails.cs",
+              "ToolTip": "V:\\VRAJ RESUME PROJECTS\\BookMyMeal\\BookMyMealAPI\\BookMyMeal\\Models\\CouponDetails.cs",
+              "RelativeToolTip": "BookMyMeal\\Models\\CouponDetails.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAwwBQAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T05:29:42.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CouponRedemptionLogsBL.cs",
+              "DocumentMoniker": "V:\\VRAJ RESUME PROJECTS\\BookMyMeal\\BookMyMealAPI\\BookMyMeal\\Repository\\Implementation\\CouponRedemptionLogsBL.cs",
+              "RelativeDocumentMoniker": "BookMyMeal\\Repository\\Implementation\\CouponRedemptionLogsBL.cs",
+              "ToolTip": "V:\\VRAJ RESUME PROJECTS\\BookMyMeal\\BookMyMealAPI\\BookMyMeal\\Repository\\Implementation\\CouponRedemptionLogsBL.cs",
+              "RelativeToolTip": "BookMyMeal\\Repository\\Implementation\\CouponRedemptionLogsBL.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAApwBMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T05:29:42.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EmailController.cs",
+              "DocumentMoniker": "V:\\VRAJ RESUME PROJECTS\\BookMyMeal\\BookMyMealAPI\\BookMyMeal\\Controllers\\EmailController.cs",
+              "RelativeDocumentMoniker": "BookMyMeal\\Controllers\\EmailController.cs",
+              "ToolTip": "V:\\VRAJ RESUME PROJECTS\\BookMyMeal\\BookMyMealAPI\\BookMyMeal\\Controllers\\EmailController.cs",
+              "RelativeToolTip": "BookMyMeal\\Controllers\\EmailController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T05:29:42.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "V:\\VRAJ RESUME PROJECTS\\BookMyMeal\\BookMyMealAPI\\BookMyMeal\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "BookMyMeal\\Controllers\\EmployeeController.cs",
+              "ToolTip": "V:\\VRAJ RESUME PROJECTS\\BookMyMeal\\BookMyMealAPI\\BookMyMeal\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "BookMyMeal\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAcwB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T05:29:42.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CouponRedemptionLogsController.cs",
+              "DocumentMoniker": "V:\\VRAJ RESUME PROJECTS\\BookMyMeal\\BookMyMealAPI\\BookMyMeal\\Controllers\\CouponRedemptionLogsController.cs",
+              "RelativeDocumentMoniker": "BookMyMeal\\Controllers\\CouponRedemptionLogsController.cs",
+              "ToolTip": "V:\\VRAJ RESUME PROJECTS\\BookMyMeal\\BookMyMealAPI\\BookMyMeal\\Controllers\\CouponRedemptionLogsController.cs",
+              "RelativeToolTip": "BookMyMeal\\Controllers\\CouponRedemptionLogsController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwAcAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T05:29:42.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "EmailBL.cs",
+              "DocumentMoniker": "V:\\VRAJ RESUME PROJECTS\\BookMyMeal\\BookMyMealAPI\\BookMyMeal\\Repository\\Implementation\\EmailBL.cs",
+              "RelativeDocumentMoniker": "BookMyMeal\\Repository\\Implementation\\EmailBL.cs",
+              "ToolTip": "V:\\VRAJ RESUME PROJECTS\\BookMyMeal\\BookMyMealAPI\\BookMyMeal\\Repository\\Implementation\\EmailBL.cs",
+              "RelativeToolTip": "BookMyMeal\\Repository\\Implementation\\EmailBL.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAqwBIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T05:29:42.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IEmail.cs",
+              "DocumentMoniker": "V:\\VRAJ RESUME PROJECTS\\BookMyMeal\\BookMyMealAPI\\BookMyMeal\\Repository\\Interface\\IEmail.cs",
+              "RelativeDocumentMoniker": "BookMyMeal\\Repository\\Interface\\IEmail.cs",
+              "ToolTip": "V:\\VRAJ RESUME PROJECTS\\BookMyMeal\\BookMyMealAPI\\BookMyMeal\\Repository\\Interface\\IEmail.cs",
+              "RelativeToolTip": "BookMyMeal\\Repository\\Interface\\IEmail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T05:29:42.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "BookingCalendar.cs",
+              "DocumentMoniker": "V:\\VRAJ RESUME PROJECTS\\BookMyMeal\\BookMyMealAPI\\BookMyMeal\\Models\\BookingCalendar.cs",
+              "RelativeDocumentMoniker": "BookMyMeal\\Models\\BookingCalendar.cs",
+              "ToolTip": "V:\\VRAJ RESUME PROJECTS\\BookMyMeal\\BookMyMealAPI\\BookMyMeal\\Models\\BookingCalendar.cs",
+              "RelativeToolTip": "BookMyMeal\\Models\\BookingCalendar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T05:29:42.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "EmailSettings.cs",
+              "DocumentMoniker": "V:\\VRAJ RESUME PROJECTS\\BookMyMeal\\BookMyMealAPI\\BookMyMeal\\Models\\EmailSettings.cs",
+              "RelativeDocumentMoniker": "BookMyMeal\\Models\\EmailSettings.cs",
+              "ToolTip": "V:\\VRAJ RESUME PROJECTS\\BookMyMeal\\BookMyMealAPI\\BookMyMeal\\Models\\EmailSettings.cs",
+              "RelativeToolTip": "BookMyMeal\\Models\\EmailSettings.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwA0AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T05:29:42.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "SendEmail.cs",
+              "DocumentMoniker": "V:\\VRAJ RESUME PROJECTS\\BookMyMeal\\BookMyMealAPI\\BookMyMeal\\Models\\SendEmail.cs",
+              "RelativeDocumentMoniker": "BookMyMeal\\Models\\SendEmail.cs",
+              "ToolTip": "V:\\VRAJ RESUME PROJECTS\\BookMyMeal\\BookMyMealAPI\\BookMyMeal\\Models\\SendEmail.cs",
+              "RelativeToolTip": "BookMyMeal\\Models\\SendEmail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T05:29:42.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CouponRedemptionLogs.cs",
+              "DocumentMoniker": "V:\\VRAJ RESUME PROJECTS\\BookMyMeal\\BookMyMealAPI\\BookMyMeal\\Models\\CouponRedemptionLogs.cs",
+              "RelativeDocumentMoniker": "BookMyMeal\\Models\\CouponRedemptionLogs.cs",
+              "ToolTip": "V:\\VRAJ RESUME PROJECTS\\BookMyMeal\\BookMyMealAPI\\BookMyMeal\\Models\\CouponRedemptionLogs.cs",
+              "RelativeToolTip": "BookMyMeal\\Models\\CouponRedemptionLogs.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAAA8AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T05:29:42.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ICouponRedemptionLogs.cs",
+              "DocumentMoniker": "V:\\VRAJ RESUME PROJECTS\\BookMyMeal\\BookMyMealAPI\\BookMyMeal\\Repository\\Interface\\ICouponRedemptionLogs.cs",
+              "RelativeDocumentMoniker": "BookMyMeal\\Repository\\Interface\\ICouponRedemptionLogs.cs",
+              "ToolTip": "V:\\VRAJ RESUME PROJECTS\\BookMyMeal\\BookMyMealAPI\\BookMyMeal\\Repository\\Interface\\ICouponRedemptionLogs.cs",
+              "RelativeToolTip": "BookMyMeal\\Repository\\Interface\\ICouponRedemptionLogs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T05:29:42.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IEmployee.cs",
+              "DocumentMoniker": "V:\\VRAJ RESUME PROJECTS\\BookMyMeal\\BookMyMealAPI\\BookMyMeal\\Repository\\Interface\\IEmployee.cs",
+              "RelativeDocumentMoniker": "BookMyMeal\\Repository\\Interface\\IEmployee.cs",
+              "ToolTip": "V:\\VRAJ RESUME PROJECTS\\BookMyMeal\\BookMyMealAPI\\BookMyMeal\\Repository\\Interface\\IEmployee.cs",
+              "RelativeToolTip": "BookMyMeal\\Repository\\Interface\\IEmployee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T05:29:42.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "V:\\VRAJ RESUME PROJECTS\\BookMyMeal\\BookMyMealAPI\\BookMyMeal\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "BookMyMeal\\WeatherForecast.cs",
+              "ToolTip": "V:\\VRAJ RESUME PROJECTS\\BookMyMeal\\BookMyMealAPI\\BookMyMeal\\WeatherForecast.cs",
+              "RelativeToolTip": "BookMyMeal\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T05:29:42.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "V:\\VRAJ RESUME PROJECTS\\BookMyMeal\\BookMyMealAPI\\BookMyMeal\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "BookMyMeal\\Models\\Employee.cs",
+              "ToolTip": "V:\\VRAJ RESUME PROJECTS\\BookMyMeal\\BookMyMealAPI\\BookMyMeal\\Models\\Employee.cs",
+              "RelativeToolTip": "BookMyMeal\\Models\\Employee.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA1wAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T05:29:42.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "LoginLogs.cs",
+              "DocumentMoniker": "V:\\VRAJ RESUME PROJECTS\\BookMyMeal\\BookMyMealAPI\\BookMyMeal\\Models\\LoginLogs.cs",
+              "RelativeDocumentMoniker": "BookMyMeal\\Models\\LoginLogs.cs",
+              "ToolTip": "V:\\VRAJ RESUME PROJECTS\\BookMyMeal\\BookMyMealAPI\\BookMyMeal\\Models\\LoginLogs.cs",
+              "RelativeToolTip": "BookMyMeal\\Models\\LoginLogs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T05:29:42.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "LoginCredentials.cs",
+              "DocumentMoniker": "V:\\VRAJ RESUME PROJECTS\\BookMyMeal\\BookMyMealAPI\\BookMyMeal\\Models\\LoginCredentials.cs",
+              "RelativeDocumentMoniker": "BookMyMeal\\Models\\LoginCredentials.cs",
+              "ToolTip": "V:\\VRAJ RESUME PROJECTS\\BookMyMeal\\BookMyMealAPI\\BookMyMeal\\Models\\LoginCredentials.cs",
+              "RelativeToolTip": "BookMyMeal\\Models\\LoginCredentials.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T05:29:42.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ILoginCredentials.cs",
+              "DocumentMoniker": "V:\\VRAJ RESUME PROJECTS\\BookMyMeal\\BookMyMealAPI\\BookMyMeal\\Repository\\Interface\\ILoginCredentials.cs",
+              "RelativeDocumentMoniker": "BookMyMeal\\Repository\\Interface\\ILoginCredentials.cs",
+              "ToolTip": "V:\\VRAJ RESUME PROJECTS\\BookMyMeal\\BookMyMealAPI\\BookMyMeal\\Repository\\Interface\\ILoginCredentials.cs",
+              "RelativeToolTip": "BookMyMeal\\Repository\\Interface\\ILoginCredentials.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAsAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T05:29:42.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "BookMyMeal.csproj",
+              "DocumentMoniker": "V:\\VRAJ RESUME PROJECTS\\BookMyMeal\\BookMyMealAPI\\BookMyMeal\\BookMyMeal.csproj",
+              "RelativeDocumentMoniker": "BookMyMeal\\BookMyMeal.csproj",
+              "ToolTip": "V:\\VRAJ RESUME PROJECTS\\BookMyMeal\\BookMyMealAPI\\BookMyMeal\\BookMyMeal.csproj",
+              "RelativeToolTip": "BookMyMeal\\BookMyMeal.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-24T05:29:42.796Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

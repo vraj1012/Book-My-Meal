@@ -1,0 +1,72 @@
+<div class="mainBody">
+<table mat-table [dataSource]="dataSource" class="mat-elevation-z8">
+
+    <!--- Note that these columns can be defined in any order.
+          The actual rendered columns are set as a property on the row definition" -->
+
+    <!-- OrderID Column -->
+    <ng-container matColumnDef="OrderID">
+      <th mat-header-cell *matHeaderCellDef>OrderID</th>
+      <td mat-cell *matCellDef="let row"> {{row.ORDERID}} </td>
+    </ng-container>
+    
+    <!-- BookedBy Column -->
+    <ng-container matColumnDef="Booked By">
+      <th mat-header-cell *matHeaderCellDef>Booked By</th>
+      <td mat-cell *matCellDef="let row"> {{row.EMPLOYEEIDBOOKEDBY}} </td>
+    </ng-container>
+
+    <ng-container matColumnDef="Booked For">
+      <th mat-header-cell *matHeaderCellDef>Booked For</th>
+      <td mat-cell *matCellDef="let row"> {{row.EMPLOYEEIDBOOKEDFOR}} </td>
+    </ng-container>
+
+    <ng-container matColumnDef="Order Type">
+      <th mat-header-cell *matHeaderCellDef>Order Type</th>
+      <td mat-cell *matCellDef="let row"> {{row.ORDERTYPE | titlecase}} </td>
+    </ng-container>
+
+    <ng-container matColumnDef="Meal Type">
+      <th mat-header-cell *matHeaderCellDef>Meal Type</th>
+      <td mat-cell *matCellDef="let row"> {{row.MEALTYPE | titlecase}} </td>
+    </ng-container>
+
+    <ng-container matColumnDef="Booked On">
+      <th mat-header-cell *matHeaderCellDef>Booked On</th>
+      <td mat-cell *matCellDef="let row"> {{row.BOOKINGDATE}}  </td>
+      <!-- <td mat-cell *matCellDef="let row"> {{row.dob | date:'yyyy-mm-dd'}}  </td> -->
+    </ng-container>
+
+    <ng-container matColumnDef="Valid From">
+      <th mat-header-cell *matHeaderCellDef>Valid From</th>
+      <td mat-cell *matCellDef="let row"> {{row.BOOKINGINITIALDATE | date : "dd-MM-yyyy"}} </td>
+    </ng-container>
+
+    <ng-container matColumnDef="Valid To">
+      <th mat-header-cell *matHeaderCellDef>Valid To</th>
+      <td mat-cell *matCellDef="let row"> {{row.BOOKINGENDDATE | date : "dd-MM-yyyy"}} </td>
+    </ng-container>
+
+    <ng-container matColumnDef="Amount Paid">
+      <th mat-header-cell *matHeaderCellDef>Amount Paid</th>
+      <td mat-cell *matCellDef="let row"> {{row.AMOUNT | currency : "INR"}} </td>
+    </ng-container>
+
+    <ng-container matColumnDef="Status">
+      <th mat-header-cell *matHeaderCellDef>Status</th>
+      <td mat-cell *matCellDef="let row"> {{row.ORDERSTATUS | titlecase}} </td>
+    </ng-container>
+
+    <ng-container matColumnDef="Cancel">
+      <th mat-header-cell *matHeaderCellDef>Cancel</th>
+      <td mat-cell *matCellDef="let row"><button class="btn btn-primary" (click)="cancelOrder(row.ORDERID)">Cancel Order</button> </td>
+    </ng-container>
+
+    <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
+    <tr mat-row *matRowDef="let row; columns: displayedColumns;"></tr>
+
+   </table>
+
+   <!-- <mat-paginator [pageSizeOptions]="[5, 10, 25, 100]" aria-label="Select page of users"></mat-paginator> -->
+
+  </div>

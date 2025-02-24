@@ -1,0 +1,77 @@
+<!-- <ul>
+    <li><a>Home</a></li>
+    <li><a>About</a></li>
+  </ul> -->
+<div [ngSwitch]="menuType">
+  <!-- <nav class="navbar navbar-expand-lg navbar-light bg-light"> -->
+  <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+    <a class="navbar-brand" href="#">BookMyMeal</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+  
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+
+      <!-- MENU BEFORE LOGIN -->
+      <ul class="navbar-nav mr-auto" *ngSwitchCase="'default'">
+
+        <li class="nav-item">
+          <a class="nav-link" routerLink="app-about">About Us</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" routerLink="app-termsandconditions">Terms & Conditions</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" routerLink="app-privacypolicy">Privacy Policy</a>
+        </li>
+
+      </ul>
+
+      <!-- MENU AFTER LOGIN -->
+      <ul class="navbar-nav mr-auto" *ngSwitchCase="'employeemenu'">
+        <li class="nav-item active">
+          <a class="nav-link" (click)="homeShow()">Home</a>
+        </li>
+
+        <!-- <li class="nav-item">
+          <a class="nav-link" routerLink="app-employee">EmployeeList</a>
+        </li> -->
+
+        <li class="nav-item">
+          <a class="nav-link" routerLink="app-placebulkorder">Bulk Order</a>
+        </li>
+
+        <li class="nav-item">
+          <a class="nav-link" routerLink="app-orderhistory">Order History</a>
+        </li>
+
+        <li class="nav-item">
+          <a class="nav-link" routerLink="app-coupondetails">Coupon Details</a>
+        </li>
+
+        <li class="nav-item">
+          <a class="nav-link" routerLink="app-about">About Us</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" routerLink="app-termsandconditions">Terms & Conditions</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" routerLink="app-privacypolicy">Privacy Policy</a>
+        </li>
+
+        <li class="nav-item dropdown" style="margin-left: 220px;">
+          <a class="nav-link dropdown-toggle" href="#" data-bs-toggle="dropdown" aria-expanded="false"><span class="fa-light fa-circle-user usericon"></span>User</a>
+          <ul class="dropdown-menu">
+            <!-- <li><a class="dropdown-item" (click)="logoutButton()">Logout</a></li> -->
+            <li><a class="dropdown-item" (click)="openlogoutDialog()">Logout</a></li>
+            <li><a class="dropdown-item" (click)="changePasswordButton()">Change Password</a></li>
+          </ul>
+        </li>
+
+      </ul>
+
+    </div>
+  </nav>
+</div>
+<router-outlet></router-outlet>
+

@@ -1,0 +1,59 @@
+<div class="mainBody">
+    <div class="container">
+    
+        <div class="row justify-content-center align-items-center inner-row">
+    
+            <div class="col-lg-5 col-md-7">
+    
+                <div class="glass placebulkorder-form p-md-5 p-3 rounded-5">
+                    <div class="form-title">
+                        <h2 class="fw-bold mb-3">Place Bulk Booking Order</h2>
+                    </div>
+    
+                    <form [formGroup]="placebulkorderForm" (ngSubmit)="placebulkorderFormSubmit()">
+    
+                        <!-- employeeidbookedfor -->
+                        <div class="form-floating mb-3">
+                            <input type="number"  class="form-control form-control-sm" placeholder="Booking For EmployeeID" id="floatingInput" formControlName="employeeidbookedfor">
+                            <label for="floatingInput" class="text-secondary">Booking For EmployeeID</label>
+                            <span style="color: red" *ngIf="employeeidbookedfor && employeeidbookedfor.invalid && employeeidbookedfor.touched">*Required</span>
+                        </div>
+
+                        <!-- mealtype -->
+                        <div>
+                            <select class="form-select mb-3" aria-label="Default select example" formControlName="mealtype">
+                                <option selected >Select your meal type</option>
+                                <option value="LUNCH">Lunch</option>
+                                <option value="DINNER">Dinner</option>
+                                <option value="BOTH">Both</option>
+                              </select>
+                              <span style="color: red" *ngIf="mealtype && mealtype.invalid && mealtype.touched">*Required</span>
+                        </div>
+
+                        <!-- bookinginitialdate -->
+                        <div class="form-floating mb-3">
+                            <input type="date" class="form-control form-control-sm" placeholder="Start Date" id="floatingInput" formControlName="bookinginitialdate">
+                            <label for="floatingInput" class="text-secondary">Start Date</label>
+                            <span style="color: red;" *ngIf="bookinginitialdate && bookinginitialdate.invalid && bookinginitialdate.touched">*Required</span>
+                        </div>
+
+                        <!-- bookingenddate -->
+                        <div class="form-floating mb-3">
+                            <input type="date" class="form-control form-control-sm" placeholder="End Date" id="floatingInput" formControlName="bookingenddate">
+                            <label for="floatingInput" class="text-secondary">End Date</label>
+                            <span style="color: red;" *ngIf="bookingenddate && bookingenddate.invalid && bookingenddate.touched">*Required</span>
+                        </div>
+
+
+    
+                        <div class="mt-3">
+                            <button class="btn primaryBg text-white" [disabled]="placebulkorderForm.invalid">Place Order</button>
+                        </div>
+    
+    
+                    </form>
+    
+                </div>
+            </div>
+        </div>
+</div>

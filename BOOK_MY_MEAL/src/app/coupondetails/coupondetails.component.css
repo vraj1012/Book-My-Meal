@@ -1,0 +1,27 @@
+.mainBody{
+    background: url(../../assets/dark_food_bg.jpg);
+    background-size: cover;
+    height: 100vh;
+}
+
+.tableBody
+{
+
+    width: 500px;
+}
+
+table
+{
+    background: rgb(33,37,41);
+    border: solid orangered 2px;
+}
+
+th
+{
+    color: white;
+}
+
+td
+{
+    color: white;
+}

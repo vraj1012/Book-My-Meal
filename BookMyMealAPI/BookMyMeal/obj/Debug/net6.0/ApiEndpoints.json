@@ -1,0 +1,298 @@
+[
+  {
+    "ContainingType": "BookMyMeal.Controllers.BookingCalendarController",
+    "Method": "GetBookingDates",
+    "RelativePath": "api/BookingCalendar/{employeeID}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "employeeID",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BookMyMeal.Controllers.BookingCalendarController",
+    "Method": "GetBookingEndDate",
+    "RelativePath": "api/BookingCalendar/EndDate/{employeeID}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "employeeID",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BookMyMeal.Controllers.BookingCalendarController",
+    "Method": "GetBookingStartDate",
+    "RelativePath": "api/BookingCalendar/StartDate/{employeeID}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "employeeID",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BookMyMeal.Controllers.CouponDetailsController",
+    "Method": "RedeemCoupon",
+    "RelativePath": "api/CouponDetails/{couponNumber}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "couponNumber",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BookMyMeal.Controllers.CouponDetailsController",
+    "Method": "GetCouponDetailsByEmployeeId",
+    "RelativePath": "api/CouponDetails/{employeeID}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "employeeID",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BookMyMeal.Controllers.CouponRedemptionLogsController",
+    "Method": "GetRedeemedCouponDetails",
+    "RelativePath": "api/CouponRedemptionLogs/{employeeID}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "employeeID",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BookMyMeal.Controllers.EmailController",
+    "Method": "NotifyEmail",
+    "RelativePath": "api/Email/NotifyAdminForOrderCancellation",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BookMyMeal.Controllers.EmailController",
+    "Method": "NotifyBookingEmail",
+    "RelativePath": "api/Email/NotifyEmployeeOrderBooking",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BookMyMeal.Controllers.EmployeeController",
+    "Method": "GetEmployeeData",
+    "RelativePath": "api/Employee",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BookMyMeal.Controllers.EmployeeController",
+    "Method": "InsertEmployeeData",
+    "RelativePath": "api/Employee",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "emp",
+        "Type": "BookMyMeal.Models.Employee",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BookMyMeal.Controllers.EmployeeController",
+    "Method": "GetEmployeeDataById",
+    "RelativePath": "api/Employee/{employeeID}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "employeeID",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BookMyMeal.Controllers.EmployeeController",
+    "Method": "DeleteEmployeeData",
+    "RelativePath": "api/Employee/{employeeID}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "employeeID",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BookMyMeal.Controllers.EmployeeController",
+    "Method": "UpdateEmployeeData",
+    "RelativePath": "api/Employee/{newPassword}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "emp",
+        "Type": "BookMyMeal.Models.Employee",
+        "IsRequired": true
+      },
+      {
+        "Name": "newPassword",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BookMyMeal.Controllers.LoginCredentialsController",
+    "Method": "VerifyLoginCredentials",
+    "RelativePath": "api/LoginCredentials",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "credentials",
+        "Type": "BookMyMeal.Models.LoginCredentials",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BookMyMeal.Controllers.OrderLogsController",
+    "Method": "GetOrderLogsByEmployeeId",
+    "RelativePath": "api/OrderLogs/{employeeID}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "employeeID",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BookMyMeal.Controllers.OrderLogsController",
+    "Method": "CancelOrder",
+    "RelativePath": "api/OrderLogs/{orderID}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "orderID",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BookMyMeal.Controllers.OrderLogsController",
+    "Method": "PlaceOrderBulk",
+    "RelativePath": "api/OrderLogs/PlaceOrderBulk",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "ordD",
+        "Type": "BookMyMeal.Models.OrderLogs",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BookMyMeal.Controllers.OrderLogsController",
+    "Method": "PlaceOrderSingle",
+    "RelativePath": "api/OrderLogs/PlaceOrderSingle",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "ordD",
+        "Type": "BookMyMeal.Models.OrderLogs",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BookMyMeal.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[BookMyMeal.WeatherForecast, BookMyMeal, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetWeatherForecast"
+  }
+]

@@ -1,0 +1,242 @@
+C:\Users\Admin\source\repos\BookMyMeal\BookMyMeal\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Admin\source\repos\BookMyMeal\BookMyMeal\bin\Debug\net6.0\appsettings.json
+C:\Users\Admin\source\repos\BookMyMeal\BookMyMeal\bin\Debug\net6.0\BookMyMeal.exe
+C:\Users\Admin\source\repos\BookMyMeal\BookMyMeal\bin\Debug\net6.0\BookMyMeal.deps.json
+C:\Users\Admin\source\repos\BookMyMeal\BookMyMeal\bin\Debug\net6.0\BookMyMeal.runtimeconfig.json
+C:\Users\Admin\source\repos\BookMyMeal\BookMyMeal\bin\Debug\net6.0\BookMyMeal.dll
+C:\Users\Admin\source\repos\BookMyMeal\BookMyMeal\bin\Debug\net6.0\BookMyMeal.pdb
+C:\Users\Admin\source\repos\BookMyMeal\BookMyMeal\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Admin\source\repos\BookMyMeal\BookMyMeal\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\source\repos\BookMyMeal\BookMyMeal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Admin\source\repos\BookMyMeal\BookMyMeal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Admin\source\repos\BookMyMeal\BookMyMeal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Admin\source\repos\BookMyMeal\BookMyMeal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Admin\source\repos\BookMyMeal\BookMyMeal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Admin\source\repos\BookMyMeal\BookMyMeal\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Admin\source\repos\BookMyMeal\BookMyMeal\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Admin\source\repos\BookMyMeal\BookMyMeal\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Admin\source\repos\BookMyMeal\BookMyMeal\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Admin\source\repos\BookMyMeal\BookMyMeal\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Admin\source\repos\BookMyMeal\BookMyMeal\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Admin\source\repos\BookMyMeal\BookMyMeal\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Admin\source\repos\BookMyMeal\BookMyMeal\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Admin\source\repos\BookMyMeal\BookMyMeal\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Admin\source\repos\BookMyMeal\BookMyMeal\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Admin\source\repos\BookMyMeal\BookMyMeal\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Admin\source\repos\BookMyMeal\BookMyMeal\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Admin\source\repos\BookMyMeal\BookMyMeal\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Admin\source\repos\BookMyMeal\BookMyMeal\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Admin\source\repos\BookMyMeal\BookMyMeal\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Admin\source\repos\BookMyMeal\BookMyMeal\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Admin\source\repos\BookMyMeal\BookMyMeal\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Admin\source\repos\BookMyMeal\BookMyMeal\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Admin\source\repos\BookMyMeal\BookMyMeal\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\source\repos\BookMyMeal\BookMyMeal\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Admin\source\repos\BookMyMeal\BookMyMeal\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Admin\source\repos\BookMyMeal\BookMyMeal\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\source\repos\BookMyMeal\BookMyMeal\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Admin\source\repos\BookMyMeal\BookMyMeal\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\source\repos\BookMyMeal\BookMyMeal\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\source\repos\BookMyMeal\BookMyMeal\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\source\repos\BookMyMeal\BookMyMeal\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Admin\source\repos\BookMyMeal\BookMyMeal\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Admin\source\repos\BookMyMeal\BookMyMeal\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Admin\source\repos\BookMyMeal\BookMyMeal\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Admin\source\repos\BookMyMeal\BookMyMeal\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Admin\source\repos\BookMyMeal\BookMyMeal\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Admin\source\repos\BookMyMeal\BookMyMeal\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Admin\source\repos\BookMyMeal\BookMyMeal\obj\Debug\net6.0\BookMyMeal.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\BookMyMeal\BookMyMeal\obj\Debug\net6.0\BookMyMeal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\BookMyMeal\BookMyMeal\obj\Debug\net6.0\BookMyMeal.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\BookMyMeal\BookMyMeal\obj\Debug\net6.0\BookMyMeal.AssemblyInfo.cs
+C:\Users\Admin\source\repos\BookMyMeal\BookMyMeal\obj\Debug\net6.0\BookMyMeal.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\BookMyMeal\BookMyMeal\obj\Debug\net6.0\BookMyMeal.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Admin\source\repos\BookMyMeal\BookMyMeal\obj\Debug\net6.0\BookMyMeal.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\source\repos\BookMyMeal\BookMyMeal\obj\Debug\net6.0\staticwebassets\msbuild.BookMyMeal.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Admin\source\repos\BookMyMeal\BookMyMeal\obj\Debug\net6.0\staticwebassets\msbuild.build.BookMyMeal.props
+C:\Users\Admin\source\repos\BookMyMeal\BookMyMeal\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BookMyMeal.props
+C:\Users\Admin\source\repos\BookMyMeal\BookMyMeal\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BookMyMeal.props
+C:\Users\Admin\source\repos\BookMyMeal\BookMyMeal\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Admin\source\repos\BookMyMeal\BookMyMeal\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Admin\source\repos\BookMyMeal\BookMyMeal\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Admin\source\repos\BookMyMeal\BookMyMeal\obj\Debug\net6.0\scopedcss\bundle\BookMyMeal.styles.css
+C:\Users\Admin\source\repos\BookMyMeal\BookMyMeal\obj\Debug\net6.0\BookMyMeal.csproj.CopyComplete
+C:\Users\Admin\source\repos\BookMyMeal\BookMyMeal\obj\Debug\net6.0\BookMyMeal.dll
+C:\Users\Admin\source\repos\BookMyMeal\BookMyMeal\obj\Debug\net6.0\refint\BookMyMeal.dll
+C:\Users\Admin\source\repos\BookMyMeal\BookMyMeal\obj\Debug\net6.0\BookMyMeal.pdb
+C:\Users\Admin\source\repos\BookMyMeal\BookMyMeal\obj\Debug\net6.0\BookMyMeal.genruntimeconfig.cache
+C:\Users\Admin\source\repos\BookMyMeal\BookMyMeal\obj\Debug\net6.0\ref\BookMyMeal.dll
+C:\Users\Admin\source\repos\BookMyMeal\BookMyMeal\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Admin\source\repos\BookMyMeal\BookMyMeal\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Admin\source\repos\BookMyMeal\BookMyMeal\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+C:\Users\Admin\source\repos\BookMyMeal\BookMyMeal\bin\Debug\net6.0\MailKit.dll
+C:\Users\Admin\source\repos\BookMyMeal\BookMyMeal\bin\Debug\net6.0\MimeKit.dll
+C:\Users\Admin\source\repos\BookMyMeal\BookMyMeal\bin\Debug\net6.0\System.Formats.Asn1.dll
+C:\Users\Admin\source\repos\BookMyMeal\BookMyMeal\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Admin\source\repos\BookMyMeal\BookMyMeal\bin\Debug\net6.0\System.Text.Encoding.CodePages.dll
+C:\Users\Admin\source\repos\BookMyMeal\BookMyMeal\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\Admin\source\repos\BookMyMeal\BookMyMeal\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
+D:\VRAJ PENDRIVE DATA\Vraj_MSTech\2\BookMyMeal\BookMyMeal\bin\Debug\net6.0\appsettings.Development.json
+D:\VRAJ PENDRIVE DATA\Vraj_MSTech\2\BookMyMeal\BookMyMeal\bin\Debug\net6.0\appsettings.json
+D:\VRAJ PENDRIVE DATA\Vraj_MSTech\2\BookMyMeal\BookMyMeal\bin\Debug\net6.0\BookMyMeal.staticwebassets.endpoints.json
+D:\VRAJ PENDRIVE DATA\Vraj_MSTech\2\BookMyMeal\BookMyMeal\bin\Debug\net6.0\BookMyMeal.exe
+D:\VRAJ PENDRIVE DATA\Vraj_MSTech\2\BookMyMeal\BookMyMeal\bin\Debug\net6.0\BookMyMeal.deps.json
+D:\VRAJ PENDRIVE DATA\Vraj_MSTech\2\BookMyMeal\BookMyMeal\bin\Debug\net6.0\BookMyMeal.runtimeconfig.json
+D:\VRAJ PENDRIVE DATA\Vraj_MSTech\2\BookMyMeal\BookMyMeal\bin\Debug\net6.0\BookMyMeal.dll
+D:\VRAJ PENDRIVE DATA\Vraj_MSTech\2\BookMyMeal\BookMyMeal\bin\Debug\net6.0\BookMyMeal.pdb
+D:\VRAJ PENDRIVE DATA\Vraj_MSTech\2\BookMyMeal\BookMyMeal\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+D:\VRAJ PENDRIVE DATA\Vraj_MSTech\2\BookMyMeal\BookMyMeal\bin\Debug\net6.0\Humanizer.dll
+D:\VRAJ PENDRIVE DATA\Vraj_MSTech\2\BookMyMeal\BookMyMeal\bin\Debug\net6.0\MailKit.dll
+D:\VRAJ PENDRIVE DATA\Vraj_MSTech\2\BookMyMeal\BookMyMeal\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\VRAJ PENDRIVE DATA\Vraj_MSTech\2\BookMyMeal\BookMyMeal\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\VRAJ PENDRIVE DATA\Vraj_MSTech\2\BookMyMeal\BookMyMeal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\VRAJ PENDRIVE DATA\Vraj_MSTech\2\BookMyMeal\BookMyMeal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\VRAJ PENDRIVE DATA\Vraj_MSTech\2\BookMyMeal\BookMyMeal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\VRAJ PENDRIVE DATA\Vraj_MSTech\2\BookMyMeal\BookMyMeal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\VRAJ PENDRIVE DATA\Vraj_MSTech\2\BookMyMeal\BookMyMeal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\VRAJ PENDRIVE DATA\Vraj_MSTech\2\BookMyMeal\BookMyMeal\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\VRAJ PENDRIVE DATA\Vraj_MSTech\2\BookMyMeal\BookMyMeal\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\VRAJ PENDRIVE DATA\Vraj_MSTech\2\BookMyMeal\BookMyMeal\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\VRAJ PENDRIVE DATA\Vraj_MSTech\2\BookMyMeal\BookMyMeal\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\VRAJ PENDRIVE DATA\Vraj_MSTech\2\BookMyMeal\BookMyMeal\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\VRAJ PENDRIVE DATA\Vraj_MSTech\2\BookMyMeal\BookMyMeal\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\VRAJ PENDRIVE DATA\Vraj_MSTech\2\BookMyMeal\BookMyMeal\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\VRAJ PENDRIVE DATA\Vraj_MSTech\2\BookMyMeal\BookMyMeal\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\VRAJ PENDRIVE DATA\Vraj_MSTech\2\BookMyMeal\BookMyMeal\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\VRAJ PENDRIVE DATA\Vraj_MSTech\2\BookMyMeal\BookMyMeal\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\VRAJ PENDRIVE DATA\Vraj_MSTech\2\BookMyMeal\BookMyMeal\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\VRAJ PENDRIVE DATA\Vraj_MSTech\2\BookMyMeal\BookMyMeal\bin\Debug\net6.0\MimeKit.dll
+D:\VRAJ PENDRIVE DATA\Vraj_MSTech\2\BookMyMeal\BookMyMeal\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\VRAJ PENDRIVE DATA\Vraj_MSTech\2\BookMyMeal\BookMyMeal\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\VRAJ PENDRIVE DATA\Vraj_MSTech\2\BookMyMeal\BookMyMeal\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\VRAJ PENDRIVE DATA\Vraj_MSTech\2\BookMyMeal\BookMyMeal\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\VRAJ PENDRIVE DATA\Vraj_MSTech\2\BookMyMeal\BookMyMeal\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+D:\VRAJ PENDRIVE DATA\Vraj_MSTech\2\BookMyMeal\BookMyMeal\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\VRAJ PENDRIVE DATA\Vraj_MSTech\2\BookMyMeal\BookMyMeal\bin\Debug\net6.0\System.Formats.Asn1.dll
+D:\VRAJ PENDRIVE DATA\Vraj_MSTech\2\BookMyMeal\BookMyMeal\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\VRAJ PENDRIVE DATA\Vraj_MSTech\2\BookMyMeal\BookMyMeal\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\VRAJ PENDRIVE DATA\Vraj_MSTech\2\BookMyMeal\BookMyMeal\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\VRAJ PENDRIVE DATA\Vraj_MSTech\2\BookMyMeal\BookMyMeal\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\VRAJ PENDRIVE DATA\Vraj_MSTech\2\BookMyMeal\BookMyMeal\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\VRAJ PENDRIVE DATA\Vraj_MSTech\2\BookMyMeal\BookMyMeal\bin\Debug\net6.0\System.Text.Encoding.CodePages.dll
+D:\VRAJ PENDRIVE DATA\Vraj_MSTech\2\BookMyMeal\BookMyMeal\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\VRAJ PENDRIVE DATA\Vraj_MSTech\2\BookMyMeal\BookMyMeal\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\VRAJ PENDRIVE DATA\Vraj_MSTech\2\BookMyMeal\BookMyMeal\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\VRAJ PENDRIVE DATA\Vraj_MSTech\2\BookMyMeal\BookMyMeal\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\VRAJ PENDRIVE DATA\Vraj_MSTech\2\BookMyMeal\BookMyMeal\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\VRAJ PENDRIVE DATA\Vraj_MSTech\2\BookMyMeal\BookMyMeal\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\VRAJ PENDRIVE DATA\Vraj_MSTech\2\BookMyMeal\BookMyMeal\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\VRAJ PENDRIVE DATA\Vraj_MSTech\2\BookMyMeal\BookMyMeal\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\VRAJ PENDRIVE DATA\Vraj_MSTech\2\BookMyMeal\BookMyMeal\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\VRAJ PENDRIVE DATA\Vraj_MSTech\2\BookMyMeal\BookMyMeal\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\VRAJ PENDRIVE DATA\Vraj_MSTech\2\BookMyMeal\BookMyMeal\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\VRAJ PENDRIVE DATA\Vraj_MSTech\2\BookMyMeal\BookMyMeal\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+D:\VRAJ PENDRIVE DATA\Vraj_MSTech\2\BookMyMeal\BookMyMeal\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\VRAJ PENDRIVE DATA\Vraj_MSTech\2\BookMyMeal\BookMyMeal\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
+D:\VRAJ PENDRIVE DATA\Vraj_MSTech\2\BookMyMeal\BookMyMeal\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\VRAJ PENDRIVE DATA\Vraj_MSTech\2\BookMyMeal\BookMyMeal\obj\Debug\net6.0\BookMyMeal.csproj.AssemblyReference.cache
+D:\VRAJ PENDRIVE DATA\Vraj_MSTech\2\BookMyMeal\BookMyMeal\obj\Debug\net6.0\BookMyMeal.GeneratedMSBuildEditorConfig.editorconfig
+D:\VRAJ PENDRIVE DATA\Vraj_MSTech\2\BookMyMeal\BookMyMeal\obj\Debug\net6.0\BookMyMeal.AssemblyInfoInputs.cache
+D:\VRAJ PENDRIVE DATA\Vraj_MSTech\2\BookMyMeal\BookMyMeal\obj\Debug\net6.0\BookMyMeal.AssemblyInfo.cs
+D:\VRAJ PENDRIVE DATA\Vraj_MSTech\2\BookMyMeal\BookMyMeal\obj\Debug\net6.0\BookMyMeal.csproj.CoreCompileInputs.cache
+D:\VRAJ PENDRIVE DATA\Vraj_MSTech\2\BookMyMeal\BookMyMeal\obj\Debug\net6.0\BookMyMeal.MvcApplicationPartsAssemblyInfo.cs
+D:\VRAJ PENDRIVE DATA\Vraj_MSTech\2\BookMyMeal\BookMyMeal\obj\Debug\net6.0\BookMyMeal.MvcApplicationPartsAssemblyInfo.cache
+D:\VRAJ PENDRIVE DATA\Vraj_MSTech\2\BookMyMeal\BookMyMeal\obj\Debug\net6.0\scopedcss\bundle\BookMyMeal.styles.css
+D:\VRAJ PENDRIVE DATA\Vraj_MSTech\2\BookMyMeal\BookMyMeal\obj\Debug\net6.0\staticwebassets.build.json
+D:\VRAJ PENDRIVE DATA\Vraj_MSTech\2\BookMyMeal\BookMyMeal\obj\Debug\net6.0\staticwebassets.development.json
+D:\VRAJ PENDRIVE DATA\Vraj_MSTech\2\BookMyMeal\BookMyMeal\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+D:\VRAJ PENDRIVE DATA\Vraj_MSTech\2\BookMyMeal\BookMyMeal\obj\Debug\net6.0\staticwebassets\msbuild.BookMyMeal.Microsoft.AspNetCore.StaticWebAssets.props
+D:\VRAJ PENDRIVE DATA\Vraj_MSTech\2\BookMyMeal\BookMyMeal\obj\Debug\net6.0\staticwebassets\msbuild.BookMyMeal.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\VRAJ PENDRIVE DATA\Vraj_MSTech\2\BookMyMeal\BookMyMeal\obj\Debug\net6.0\staticwebassets\msbuild.build.BookMyMeal.props
+D:\VRAJ PENDRIVE DATA\Vraj_MSTech\2\BookMyMeal\BookMyMeal\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BookMyMeal.props
+D:\VRAJ PENDRIVE DATA\Vraj_MSTech\2\BookMyMeal\BookMyMeal\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BookMyMeal.props
+D:\VRAJ PENDRIVE DATA\Vraj_MSTech\2\BookMyMeal\BookMyMeal\obj\Debug\net6.0\staticwebassets.pack.json
+D:\VRAJ PENDRIVE DATA\Vraj_MSTech\2\BookMyMeal\BookMyMeal\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+D:\VRAJ PENDRIVE DATA\Vraj_MSTech\2\BookMyMeal\BookMyMeal\obj\Debug\net6.0\BookMyMeal.csproj.Up2Date
+D:\VRAJ PENDRIVE DATA\Vraj_MSTech\2\BookMyMeal\BookMyMeal\obj\Debug\net6.0\BookMyMeal.dll
+D:\VRAJ PENDRIVE DATA\Vraj_MSTech\2\BookMyMeal\BookMyMeal\obj\Debug\net6.0\refint\BookMyMeal.dll
+D:\VRAJ PENDRIVE DATA\Vraj_MSTech\2\BookMyMeal\BookMyMeal\obj\Debug\net6.0\BookMyMeal.pdb
+D:\VRAJ PENDRIVE DATA\Vraj_MSTech\2\BookMyMeal\BookMyMeal\obj\Debug\net6.0\BookMyMeal.genruntimeconfig.cache
+D:\VRAJ PENDRIVE DATA\Vraj_MSTech\2\BookMyMeal\BookMyMeal\obj\Debug\net6.0\ref\BookMyMeal.dll
+V:\VRAJ RESUME PROJECTS\BookMyMeal\BookMyMealAPI\BookMyMeal\bin\Debug\net6.0\appsettings.Development.json
+V:\VRAJ RESUME PROJECTS\BookMyMeal\BookMyMealAPI\BookMyMeal\bin\Debug\net6.0\appsettings.json
+V:\VRAJ RESUME PROJECTS\BookMyMeal\BookMyMealAPI\BookMyMeal\bin\Debug\net6.0\BookMyMeal.staticwebassets.endpoints.json
+V:\VRAJ RESUME PROJECTS\BookMyMeal\BookMyMealAPI\BookMyMeal\bin\Debug\net6.0\BookMyMeal.exe
+V:\VRAJ RESUME PROJECTS\BookMyMeal\BookMyMealAPI\BookMyMeal\bin\Debug\net6.0\BookMyMeal.deps.json
+V:\VRAJ RESUME PROJECTS\BookMyMeal\BookMyMealAPI\BookMyMeal\bin\Debug\net6.0\BookMyMeal.runtimeconfig.json
+V:\VRAJ RESUME PROJECTS\BookMyMeal\BookMyMealAPI\BookMyMeal\bin\Debug\net6.0\BookMyMeal.dll
+V:\VRAJ RESUME PROJECTS\BookMyMeal\BookMyMealAPI\BookMyMeal\bin\Debug\net6.0\BookMyMeal.pdb
+V:\VRAJ RESUME PROJECTS\BookMyMeal\BookMyMealAPI\BookMyMeal\bin\Debug\net6.0\BouncyCastle.Cryptography.dll
+V:\VRAJ RESUME PROJECTS\BookMyMeal\BookMyMealAPI\BookMyMeal\bin\Debug\net6.0\Humanizer.dll
+V:\VRAJ RESUME PROJECTS\BookMyMeal\BookMyMealAPI\BookMyMeal\bin\Debug\net6.0\MailKit.dll
+V:\VRAJ RESUME PROJECTS\BookMyMeal\BookMyMealAPI\BookMyMeal\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+V:\VRAJ RESUME PROJECTS\BookMyMeal\BookMyMealAPI\BookMyMeal\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+V:\VRAJ RESUME PROJECTS\BookMyMeal\BookMyMealAPI\BookMyMeal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+V:\VRAJ RESUME PROJECTS\BookMyMeal\BookMyMealAPI\BookMyMeal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+V:\VRAJ RESUME PROJECTS\BookMyMeal\BookMyMealAPI\BookMyMeal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+V:\VRAJ RESUME PROJECTS\BookMyMeal\BookMyMealAPI\BookMyMeal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+V:\VRAJ RESUME PROJECTS\BookMyMeal\BookMyMealAPI\BookMyMeal\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+V:\VRAJ RESUME PROJECTS\BookMyMeal\BookMyMealAPI\BookMyMeal\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+V:\VRAJ RESUME PROJECTS\BookMyMeal\BookMyMealAPI\BookMyMeal\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+V:\VRAJ RESUME PROJECTS\BookMyMeal\BookMyMealAPI\BookMyMeal\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+V:\VRAJ RESUME PROJECTS\BookMyMeal\BookMyMealAPI\BookMyMeal\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+V:\VRAJ RESUME PROJECTS\BookMyMeal\BookMyMealAPI\BookMyMeal\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+V:\VRAJ RESUME PROJECTS\BookMyMeal\BookMyMealAPI\BookMyMeal\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+V:\VRAJ RESUME PROJECTS\BookMyMeal\BookMyMealAPI\BookMyMeal\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+V:\VRAJ RESUME PROJECTS\BookMyMeal\BookMyMealAPI\BookMyMeal\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+V:\VRAJ RESUME PROJECTS\BookMyMeal\BookMyMealAPI\BookMyMeal\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+V:\VRAJ RESUME PROJECTS\BookMyMeal\BookMyMealAPI\BookMyMeal\bin\Debug\net6.0\Microsoft.OpenApi.dll
+V:\VRAJ RESUME PROJECTS\BookMyMeal\BookMyMealAPI\BookMyMeal\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+V:\VRAJ RESUME PROJECTS\BookMyMeal\BookMyMealAPI\BookMyMeal\bin\Debug\net6.0\MimeKit.dll
+V:\VRAJ RESUME PROJECTS\BookMyMeal\BookMyMealAPI\BookMyMeal\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+V:\VRAJ RESUME PROJECTS\BookMyMeal\BookMyMealAPI\BookMyMeal\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+V:\VRAJ RESUME PROJECTS\BookMyMeal\BookMyMealAPI\BookMyMeal\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+V:\VRAJ RESUME PROJECTS\BookMyMeal\BookMyMealAPI\BookMyMeal\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+V:\VRAJ RESUME PROJECTS\BookMyMeal\BookMyMealAPI\BookMyMeal\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+V:\VRAJ RESUME PROJECTS\BookMyMeal\BookMyMealAPI\BookMyMeal\bin\Debug\net6.0\System.Drawing.Common.dll
+V:\VRAJ RESUME PROJECTS\BookMyMeal\BookMyMealAPI\BookMyMeal\bin\Debug\net6.0\System.Formats.Asn1.dll
+V:\VRAJ RESUME PROJECTS\BookMyMeal\BookMyMealAPI\BookMyMeal\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+V:\VRAJ RESUME PROJECTS\BookMyMeal\BookMyMealAPI\BookMyMeal\bin\Debug\net6.0\System.Runtime.Caching.dll
+V:\VRAJ RESUME PROJECTS\BookMyMeal\BookMyMealAPI\BookMyMeal\bin\Debug\net6.0\System.Security.Cryptography.Pkcs.dll
+V:\VRAJ RESUME PROJECTS\BookMyMeal\BookMyMealAPI\BookMyMeal\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+V:\VRAJ RESUME PROJECTS\BookMyMeal\BookMyMealAPI\BookMyMeal\bin\Debug\net6.0\System.Security.Permissions.dll
+V:\VRAJ RESUME PROJECTS\BookMyMeal\BookMyMealAPI\BookMyMeal\bin\Debug\net6.0\System.Text.Encoding.CodePages.dll
+V:\VRAJ RESUME PROJECTS\BookMyMeal\BookMyMealAPI\BookMyMeal\bin\Debug\net6.0\System.Windows.Extensions.dll
+V:\VRAJ RESUME PROJECTS\BookMyMeal\BookMyMealAPI\BookMyMeal\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+V:\VRAJ RESUME PROJECTS\BookMyMeal\BookMyMealAPI\BookMyMeal\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+V:\VRAJ RESUME PROJECTS\BookMyMeal\BookMyMealAPI\BookMyMeal\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+V:\VRAJ RESUME PROJECTS\BookMyMeal\BookMyMealAPI\BookMyMeal\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+V:\VRAJ RESUME PROJECTS\BookMyMeal\BookMyMealAPI\BookMyMeal\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+V:\VRAJ RESUME PROJECTS\BookMyMeal\BookMyMealAPI\BookMyMeal\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+V:\VRAJ RESUME PROJECTS\BookMyMeal\BookMyMealAPI\BookMyMeal\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+V:\VRAJ RESUME PROJECTS\BookMyMeal\BookMyMealAPI\BookMyMeal\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+V:\VRAJ RESUME PROJECTS\BookMyMeal\BookMyMealAPI\BookMyMeal\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+V:\VRAJ RESUME PROJECTS\BookMyMeal\BookMyMealAPI\BookMyMeal\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+V:\VRAJ RESUME PROJECTS\BookMyMeal\BookMyMealAPI\BookMyMeal\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.Pkcs.dll
+V:\VRAJ RESUME PROJECTS\BookMyMeal\BookMyMealAPI\BookMyMeal\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+V:\VRAJ RESUME PROJECTS\BookMyMeal\BookMyMealAPI\BookMyMeal\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Text.Encoding.CodePages.dll
+V:\VRAJ RESUME PROJECTS\BookMyMeal\BookMyMealAPI\BookMyMeal\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+V:\VRAJ RESUME PROJECTS\BookMyMeal\BookMyMealAPI\BookMyMeal\obj\Debug\net6.0\BookMyMeal.csproj.AssemblyReference.cache
+V:\VRAJ RESUME PROJECTS\BookMyMeal\BookMyMealAPI\BookMyMeal\obj\Debug\net6.0\BookMyMeal.GeneratedMSBuildEditorConfig.editorconfig
+V:\VRAJ RESUME PROJECTS\BookMyMeal\BookMyMealAPI\BookMyMeal\obj\Debug\net6.0\BookMyMeal.AssemblyInfoInputs.cache
+V:\VRAJ RESUME PROJECTS\BookMyMeal\BookMyMealAPI\BookMyMeal\obj\Debug\net6.0\BookMyMeal.AssemblyInfo.cs
+V:\VRAJ RESUME PROJECTS\BookMyMeal\BookMyMealAPI\BookMyMeal\obj\Debug\net6.0\BookMyMeal.csproj.CoreCompileInputs.cache
+V:\VRAJ RESUME PROJECTS\BookMyMeal\BookMyMealAPI\BookMyMeal\obj\Debug\net6.0\BookMyMeal.MvcApplicationPartsAssemblyInfo.cs
+V:\VRAJ RESUME PROJECTS\BookMyMeal\BookMyMealAPI\BookMyMeal\obj\Debug\net6.0\BookMyMeal.MvcApplicationPartsAssemblyInfo.cache
+V:\VRAJ RESUME PROJECTS\BookMyMeal\BookMyMealAPI\BookMyMeal\obj\Debug\net6.0\scopedcss\bundle\BookMyMeal.styles.css
+V:\VRAJ RESUME PROJECTS\BookMyMeal\BookMyMealAPI\BookMyMeal\obj\Debug\net6.0\staticwebassets.build.json
+V:\VRAJ RESUME PROJECTS\BookMyMeal\BookMyMealAPI\BookMyMeal\obj\Debug\net6.0\staticwebassets.development.json
+V:\VRAJ RESUME PROJECTS\BookMyMeal\BookMyMealAPI\BookMyMeal\obj\Debug\net6.0\staticwebassets.build.endpoints.json
+V:\VRAJ RESUME PROJECTS\BookMyMeal\BookMyMealAPI\BookMyMeal\obj\Debug\net6.0\staticwebassets\msbuild.BookMyMeal.Microsoft.AspNetCore.StaticWebAssets.props
+V:\VRAJ RESUME PROJECTS\BookMyMeal\BookMyMealAPI\BookMyMeal\obj\Debug\net6.0\staticwebassets\msbuild.BookMyMeal.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+V:\VRAJ RESUME PROJECTS\BookMyMeal\BookMyMealAPI\BookMyMeal\obj\Debug\net6.0\staticwebassets\msbuild.build.BookMyMeal.props
+V:\VRAJ RESUME PROJECTS\BookMyMeal\BookMyMealAPI\BookMyMeal\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.BookMyMeal.props
+V:\VRAJ RESUME PROJECTS\BookMyMeal\BookMyMealAPI\BookMyMeal\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.BookMyMeal.props
+V:\VRAJ RESUME PROJECTS\BookMyMeal\BookMyMealAPI\BookMyMeal\obj\Debug\net6.0\staticwebassets.pack.json
+V:\VRAJ RESUME PROJECTS\BookMyMeal\BookMyMealAPI\BookMyMeal\obj\Debug\net6.0\staticwebassets.upToDateCheck.txt
+V:\VRAJ RESUME PROJECTS\BookMyMeal\BookMyMealAPI\BookMyMeal\obj\Debug\net6.0\BookMyMeal.csproj.Up2Date
+V:\VRAJ RESUME PROJECTS\BookMyMeal\BookMyMealAPI\BookMyMeal\obj\Debug\net6.0\BookMyMeal.dll
+V:\VRAJ RESUME PROJECTS\BookMyMeal\BookMyMealAPI\BookMyMeal\obj\Debug\net6.0\refint\BookMyMeal.dll
+V:\VRAJ RESUME PROJECTS\BookMyMeal\BookMyMealAPI\BookMyMeal\obj\Debug\net6.0\BookMyMeal.pdb
+V:\VRAJ RESUME PROJECTS\BookMyMeal\BookMyMealAPI\BookMyMeal\obj\Debug\net6.0\BookMyMeal.genruntimeconfig.cache
+V:\VRAJ RESUME PROJECTS\BookMyMeal\BookMyMealAPI\BookMyMeal\obj\Debug\net6.0\ref\BookMyMeal.dll

@@ -1,0 +1,21 @@
+.card-body
+{
+    height: 300px;
+    background: rgb(33,37,41);
+    color: white;
+    font-weight: 500;
+}
+
+.mainbody
+{
+    background: url(../../assets/dark_food_bg.jpg);
+    background-size: cover;
+    height: 220vh;
+    color: white;
+}
+
+img
+{
+    height: 250px;
+
+}

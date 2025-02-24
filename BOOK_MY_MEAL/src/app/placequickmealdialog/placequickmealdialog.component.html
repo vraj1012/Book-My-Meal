@@ -1,0 +1,23 @@
+<h1 mat-dialog-title>Choose your quick meal type and place order for tomorrow.</h1>
+<div mat-dialog-content>
+    
+    <form [formGroup]="placequickmealForm" (ngSubmit)="placesingleorderFormSubmit()" >
+    <!-- mealtype -->
+    <div>
+        <select class="form-select mb-3" aria-label="Default select example" formControlName="mealtype">
+            <option selected >Select your meal type</option>
+            <option value="LUNCH">Lunch</option>
+            <option value="DINNER">Dinner</option>
+            <option value="BOTH">Both</option>
+          </select>
+          <span style="color: red" *ngIf="mealtype && mealtype.invalid && mealtype.touched">*Required</span>
+    </div>
+    <button class="btn btn-primary" [disabled]="placequickmealForm.invalid">Place Order</button>
+</form>
+
+</div>
+<div mat-dialog-actions>
+
+    <button class="btn btn-danger m-3" mat-dialog-close>Close</button>
+
+</div>

@@ -1,0 +1,61 @@
+<div class="mainBody">
+
+<table mat-table [dataSource]="dataSource" class="mat-elevation-z8 tableBody">
+
+    <!--- Note that these columns can be defined in any order.
+          The actual rendered columns are set as a property on the row definition" -->
+
+    <!-- OrderID Column -->
+    <ng-container matColumnDef="CouponID">
+      <th mat-header-cell *matHeaderCellDef>CouponID</th>
+      <td mat-cell *matCellDef="let row"> {{row.COUPONID}} </td>
+    </ng-container>
+
+    <!-- EmployeeID Column -->
+    <ng-container matColumnDef="EmployeeID">
+      <th mat-header-cell *matHeaderCellDef>EmployeeID</th>
+      <td mat-cell *matCellDef="let row"> {{row.EMPLOYEEID}} </td>
+    </ng-container>
+
+    <ng-container matColumnDef="Employee Name">
+      <th mat-header-cell *matHeaderCellDef>Employee Name</th>
+      <td mat-cell *matCellDef="let row"> {{row.EMPLOYEENAME | titlecase}} </td>
+    </ng-container>
+
+    <ng-container matColumnDef="OrderID">
+      <th mat-header-cell *matHeaderCellDef>OrderID</th>
+      <td mat-cell *matCellDef="let row"> {{row.ORDERID}} </td>
+    </ng-container>
+
+    <ng-container matColumnDef="Meal Type">
+      <th mat-header-cell *matHeaderCellDef>Meal Type</th>
+      <td mat-cell *matCellDef="let row"> {{row.MEALTYPE | titlecase}} </td>
+    </ng-container>
+
+    <ng-container matColumnDef="Coupon Number">
+      <th mat-header-cell *matHeaderCellDef>Coupon Number</th>
+      <td mat-cell *matCellDef="let row"> {{row.COUPONNUMBER}}  </td>
+    </ng-container>
+
+    <ng-container matColumnDef="Date of Redemption">
+      <th mat-header-cell *matHeaderCellDef>Date of Redemption</th>
+      <td mat-cell *matCellDef="let row"> {{row.DATEOFREDEMPTION|date : "dd-MM-yyyy"}} </td>
+    </ng-container>
+
+    <ng-container matColumnDef="Day of Redemption">
+      <th mat-header-cell *matHeaderCellDef>Day of Redemption</th>
+      <td mat-cell *matCellDef="let row"> {{row.DAYOFREDEMPTION}} </td>
+    </ng-container>
+
+    <ng-container matColumnDef="Redeem">
+      <th mat-header-cell *matHeaderCellDef>Redeem</th>
+      <td mat-cell *matCellDef="let row"><button class="btn btn-primary" (click)="openRedeemDialog(row.COUPONNUMBER)">Redeem</button> </td>
+    </ng-container>
+
+    <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
+    <tr mat-row *matRowDef="let row; columns: displayedColumns;"></tr>
+
+   </table>
+
+  </div>
+

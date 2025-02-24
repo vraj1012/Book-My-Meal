@@ -1,0 +1,61 @@
+.redeemedcoupon-card {
+    width: 500px;
+    height: 400px;
+    color: white;
+    justify-content: center;
+    left : 35%;
+    top: 20%;
+    background: linear-gradient(135deg,rgba(230, 225, 225, 0.1),rgba(253, 248, 248, 0));
+    backdrop-filter: blur(25px);
+    -webkit-backdrop-filter: blur(25px);
+    border-radius: 20px;
+    border: 1px solid rgba(255,255,255,0.18);
+    box-shadow: 0 8px 32px 0 rgba(0,0,0,0.37);
+    padding: 10px;
+    text-shadow: 0.5em 0.5em 0.5em rgba(0, 0, 0, 0.9);
+    font-size: medium;
+    font-weight: 500;
+  }
+
+  img
+  {
+    margin: 20px;
+    left: 80px;
+    border: solid black 2px;
+    border-radius: 10px;
+  }
+
+  /* .redeemedCouponContainer
+  {
+    max-width: 500px;
+    max-height: 500px;
+    justify-content: center;
+    top: 30%;
+    left: 35%;
+    position:  fixed; 
+  } */
+
+  .mainBody{
+    background: url(../../assets/dark_food_bg.jpg);
+    background-size: cover;
+    height: 100vh;
+}
+
+/* table {
+  width: 50%;
+  justify-content: center;
+  top: 30%;
+  left: 35%;
+  background: rgb(33,37,41);
+  border: solid orangered 2px;
+  color: white;
+}
+
+th
+{
+  color: white;
+}
+
+td{
+  color: white;
+} */
