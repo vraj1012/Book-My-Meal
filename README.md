@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/87496477-015a-47be-9dec-2d1ad9844db4)![image](https://github.com/user-attachments/assets/7cf5ad46-5a6f-4ce7-afda-f1d2f4e89a2b)# Book My Meal
+# Book My Meal
 
 ### About the Project
 **Book My Meal** is an employee meal booking portal that allows employees to book their meals in advance. It provides two types of meal booking options:
