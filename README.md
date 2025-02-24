@@ -1,4 +1,4 @@
-# Book My Meal
+![image](https://github.com/user-attachments/assets/401a4f4b-651f-4861-8874-869b23a47ce9)# Book My Meal
 
 ### About the Project
 **Book My Meal** is an employee meal booking portal that allows employees to book their meals in advance. It provides two types of meal booking options:
@@ -9,29 +9,30 @@ Additionally, the system features a **coupon redemption mechanism** where employ
 
 ---
 
-### 📷 Suggested Images
-You can place relevant images in the `README.md` file to make it more visually appealing. Based on your project, here are some suggested sections where images can be added:
+### Features
+- Quick Meal Booking  
+- Bulk Meal Booking with Constraints  
+- Coupon Redemption System  
+- Employee Dashboard   
 
-1. **Project Banner (At the Top)** – If you have a logo or a banner image for "Book My Meal," place it at the beginning.
+---
+
+### Project Screenshots
+
+1. **Login Page**
+   - Initially when the user visits the website they need to enter their login credentials and this will be verified.
+   -  If the entered credentials are valid the user will be redirected to the home page.
    ```markdown
-   ![Project Banner](path/to/banner-image.png)
+   ![Project Banner](https://github.com/vraj1012/Book-My-Meal/blob/main/BookMyMealAppImages/1login.jpg)
    ```
 2. **System Workflow (Under "How It Works")** – If your PPT has a system flow diagram, include it.
    ```markdown
    ![System Flow](path/to/system-flow-image.png)
    ```
-3. **UI Screenshots (Under "Features")** – If you have UI designs, showcase meal booking interfaces.
+4. **UI Screenshots (Under "Features")** – If you have UI designs, showcase meal booking interfaces.
    ```markdown
    ![UI Screenshot](path/to/ui-image.png)
    ```
-
----
-
-### Features
-✅ Quick Meal Booking  
-✅ Bulk Meal Booking with Constraints  
-✅ Coupon Redemption System  
-✅ Employee Dashboard  
 
 ---
 
