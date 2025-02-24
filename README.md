@@ -1,6 +1,6 @@
 # Book My Meal
 
-### About the Project
+## About the Project
 **Book My Meal** is an employee meal booking portal that allows employees to book their meals in advance. It provides two types of meal booking options:
 1. **Quick Meal Booking** – For instant meal reservations for the next day.
 2. **Bulk Meal Booking** – For group bookings with specific constraints.
@@ -9,7 +9,7 @@ Additionally, the system features a **coupon redemption mechanism** where employ
 
 ---
 
-### Features
+## Features
 - Quick Meal Booking  
 - Bulk Meal Booking with Constraints  
 - Coupon Redemption System  
@@ -17,9 +17,9 @@ Additionally, the system features a **coupon redemption mechanism** where employ
 
 ---
 
-### Project Screenshots
+## Project Screenshots
 
-1. **Login Page**
+### 1. **Login Page**
    - Initially when the user visits the website they need to enter their login credentials and this will be verified.
    -  If the entered credentials are valid the user will be redirected to the home page.
 
@@ -104,22 +104,39 @@ current password, new password and confirm the new password to update the existi
    
 ---
 
-### 🛠️ Tech Stack
-- **Frontend:** [Mention the technologies used, e.g., React, HTML, CSS]  
-- **Backend:** [Mention backend stack, e.g., Node.js, Django]  
-- **Database:** [Mention database, e.g., MySQL, MongoDB]  
+## System Design
+
+This section provides an overview of the system architecture through diagrams.
+
+### 1. Entity-Relationship (ER) Diagram  
+The ER diagram represents the database structure, showing relationships between entities.
+
+![ER Diagram](https://github.com/vraj1012/Book-My-Meal/blob/main/Diagrams/VRAJBOOKMYMEALFINALERDIAGRAM.png)
+
+### 2. UML Diagram  
+The UML diagram describes the system’s structure and workflow.
+
+![UML Diagram](https://github.com/vraj1012/Book-My-Meal/blob/main/Diagrams/VRAJBOOKMYMEALCLASSUML.png)
+
+### 3. Use Case Diagram  
+The Use Case diagram illustrates different user interactions with the system.
+
+![Use Case Diagram](https://github.com/vraj1012/Book-My-Meal/blob/main/Diagrams/VRAJBOOKMYMEALUSECASE.png)
 
 ---
 
-### 🎯 How It Works
-1. Employees log in to the system.
-2. Choose either Quick Meal Booking or Bulk Meal Booking.
-3. Apply coupons if available.
-4. Confirm the booking.
+## Tech Stack
+- **Frontend:** Angular
+- **Backend:** .NET
+- **Database:** Microsoft SQL Server (MSSQL) 
 
 ---
 
-
-#### 🎉 Thank You for Visiting!  
+## Coupon Redemption Flow
+### 1. Employees log in to the system.
+### 2. Choose either Quick Meal Booking or Bulk Meal Booking.
+### 3. Coupons are generated. (Note : Employee can only redeem coupon for present day.)
+### 4. Redeem coupons if available.
+### 5. Cancellation of booking is also available.
 
 ---
